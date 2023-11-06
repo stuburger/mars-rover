@@ -1,0 +1,15 @@
+{
+  "name": "mars-rover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "vitest": "^0.34.6"
+  }
+}
